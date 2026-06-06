@@ -8,19 +8,19 @@ A comprehensive business intelligence solution developed for a transportation an
 This Project was designed to transform operational and financial data into actionable insights that support strategic decision-making across leadership, finance, and operations.
 The solution consists of three interconnected dashboards that provide visibility into business performance from different perspectives:
 
-# **Executive Fleet Overview Dashboard**
+##  **Executive Fleet Overview Dashboard**
 
 Provides leadership with a high-level summary of organisational performance, including revenue, profitability, customer performance, and route efficiency.
 
-# **Financial Performance Dashboard**
+##  **Financial Performance Dashboard**
 
 Focuses on revenue, costs, profitability, and customer value to uncover opportunities for financial optimisation and sustainable growth.
 
-# **Driver Performance & Safety Dashboard**
+##  **Driver Performance & Safety Dashboard**
 
 Monitors driver productivity, service quality, on-time delivery performance, and safety metrics to improve operational effectiveness.
 
-# **Problem Statement**
+##  **Problem Statement**
  
 The company operates in a highly competitive logistics environment where leadership must balance profitability, operational efficiency, customer satisfaction, and driver safety.
 Despite having access to large volumes of operational data, decision-makers often face challenges in:
@@ -37,7 +37,7 @@ Despite having access to large volumes of operational data, decision-makers ofte
 
 Without a centralized reporting solution, valuable insights can remain hidden, leading to missed opportunities for growth, cost reduction, and performance improvement.
 
- # **Project Aim**
+ ##  **Project Aim**
  
 The aim of this project is to develop an integrated Power BI reporting solution that provides stakeholders with actionable insights into business performance, financial health, and driver operations.
 The project seeks to:
@@ -52,7 +52,7 @@ The project seeks to:
 
 •	Support strategic and operational decision-making through interactive dashboards.
 
- # **Project Highlight**
+ ##  **Project Highlight**
  
 •	$299M Total Revenue Analyzed
 
@@ -68,7 +68,7 @@ The project seeks to:
 
 •	2.44 Revenue per Mile
 
-# **Tools & Technologies Used**
+##  **Tools & Technologies Used**
 
 •	Power BI
 
@@ -86,9 +86,9 @@ The project seeks to:
 
 •	Data Storytelling
 
-#  **Three Integrated Dashboards**
+##   **Three Integrated Dashboards**
  
-# **1. Executive Fleet Overview Dashboard**
+###  **1. Executive Fleet Overview Dashboard**
 
 <img width="431" height="264" alt="image" src="https://github.com/user-attachments/assets/c5b932f6-e0ea-4ba4-8261-aa465c21ac07" />
 
@@ -96,11 +96,11 @@ The project seeks to:
  
 Figure 1: Executive Fleet Overview Dashboard
 
-# **Purpose**
+###   **Purpose**
 
 Provide leadership with a high-level view of business performance across revenue, profitability, customers, routes, and operational efficiency.
 
-# **Key Metrics**
+###  **Key Metrics**
 
 •	$299M Total Revenue
 
