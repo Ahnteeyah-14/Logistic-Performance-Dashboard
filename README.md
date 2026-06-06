@@ -89,7 +89,10 @@ The project seeks to:
 #  **Three Integrated Dashboards**
  
 # **1. Executive Fleet Overview Dashboard**
-   
+
+<img width="431" height="264" alt="image" src="https://github.com/user-attachments/assets/c5b932f6-e0ea-4ba4-8261-aa465c21ac07" />
+
+  
  
 Figure 1: Executive Fleet Overview Dashboard
 
