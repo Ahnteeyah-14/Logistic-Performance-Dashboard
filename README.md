@@ -1,7 +1,7 @@
-# TS-Academy-Logistic-performance-
+# Logistic-Performance-Dashboard
 TSacademy Capstone Project: Comprehensive logistics analytics .  Includes driver performance, executive fleet overview, and financial performance dashboards.
 
-**Introduction**
+# **Introduction**
 
 A comprehensive business intelligence solution developed for a transportation and logistics company managing $299M in revenue, 125 active drivers, and over 85K completed trips.
 This Project was designed to transform operational and financial data into actionable insights that support strategic decision-making across leadership, finance, and operations.
