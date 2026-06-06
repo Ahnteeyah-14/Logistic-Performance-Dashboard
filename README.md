@@ -88,7 +88,7 @@ The project seeks to:
 
 ##   **Three Integrated Dashboards**
  
-###  **1. Executive Fleet Overview Dashboard**
+##  **1. Executive Fleet Overview Dashboard**
 
 <img width="431" height="264" alt="image" src="https://github.com/user-attachments/assets/c5b932f6-e0ea-4ba4-8261-aa465c21ac07" />
 
@@ -112,7 +112,7 @@ Provide leadership with a high-level view of business performance across revenue
 
 •	85K Total Trips
 
-# **Visualizations**
+###  **Visualizations**
 
 •	Revenue by Customer
 
@@ -126,7 +126,7 @@ Provide leadership with a high-level view of business performance across revenue
 
 •	Route Performance Comparison
 
-# **Key Insights**
+### **Key Insights**
 
 •	The company generated $299M in revenue while maintaining a strong 66% profit margin.
 
@@ -136,7 +136,7 @@ Provide leadership with a high-level view of business performance across revenue
 
 •	Revenue remains relatively stable throughout the year, indicating healthy business operations.
 
-# **Business Value Generated**
+### **Business Value Generated**
 
 •	Enables executives to monitor company-wide performance from a single dashboard.
 
@@ -146,18 +146,18 @@ Provide leadership with a high-level view of business performance across revenue
 
 •	Improves resource allocation and growth planning.
 
-# **2. Financial Performance Dashboard**
+## **2. Financial Performance Dashboard**
 
 <img width="455" height="286" alt="image" src="https://github.com/user-attachments/assets/a38368e0-61c8-4266-80d1-0b4b930f485a" />
 
  
 Figure 2: Financial Performance Dashboard
 
-# **Purpose**
+### **Purpose**
 
 Analyze profitability, customer value, and operational costs to identify opportunities for financial optimization and sustainable growth.
 
-# **Key Metrics**
+### **Key Metrics**
 
 •	$299M Total Revenue
 
@@ -167,7 +167,7 @@ Analyze profitability, customer value, and operational costs to identify opportu
 
 •	$95.59M Total Costs
 
-# **Visualizations**
+### **Visualizations**
 
 •	Revenue vs Cost by Customer
 
@@ -181,7 +181,7 @@ Analyze profitability, customer value, and operational costs to identify opportu
 
 •	Cost Distribution
 
-# **Key Insights**
+### **Key Insights**
 
 •	Revenue and profit do not always move together, highlighting the importance of cost control.
 
@@ -191,7 +191,7 @@ Analyze profitability, customer value, and operational costs to identify opportu
 
 •	Monthly profit trends reveal periods that require closer financial monitoring.
 
-# **Business Value Generated**
+### **Business Value Generated**
 
 •	Supports profitability-focused decision-making.
 
@@ -203,18 +203,18 @@ Analyze profitability, customer value, and operational costs to identify opportu
 
 •	Assists management in maximizing profit rather than focusing solely on revenue growth.
 
-# **3. Driver Performance & Safety Dashboard**
+## **3. Driver Performance & Safety Dashboard**
 
 <img width="500" height="316" alt="image" src="https://github.com/user-attachments/assets/69d742a0-d8f3-4967-b6e4-8a6199e05caa" />
 
  
 Figure 3: Driver Performance & Safety Dashboard
 
-# **Purpose**
+### **Purpose**
 
 Monitor driver productivity, safety compliance, and service quality to improve operational performance and customer satisfaction.
 
-# **Key Metrics**
+### **Key Metrics**
 
 •	125 Active Drivers
 
@@ -226,7 +226,7 @@ Monitor driver productivity, safety compliance, and service quality to improve o
 
 •	85K Total Trips
 
-# **Visualizations**
+### **Visualizations**
 
 •	Driver Performance Ranking
 
@@ -240,7 +240,7 @@ Monitor driver productivity, safety compliance, and service quality to improve o
 
 •	On-Time Delivery Tracking
 
-# **Key Insights**
+### **Key Insights**
 
 •	Driver performance varies significantly across the workforce.
 
@@ -250,7 +250,7 @@ Monitor driver productivity, safety compliance, and service quality to improve o
 
 •	Top-performing drivers can be used as benchmarks for performance improvement.
 
-# **Business Value Generated**
+### **Business Value Generated**
 
 •	Supports performance-based coaching and driver development.
 
@@ -262,9 +262,9 @@ Monitor driver productivity, safety compliance, and service quality to improve o
 
 •	Enables proactive safety management.
 
-# **Recommendations**
+## **Recommendations**
 
-# **Executive Fleet Overview**
+### **Executive Fleet Overview**
 
 •	Strengthen relationships with high-value customers through targeted retention strategies.
 
@@ -272,7 +272,7 @@ Monitor driver productivity, safety compliance, and service quality to improve o
 
 •	Continuously monitor revenue trends to identify emerging opportunities and risks.
 
-# **Financial Performance**
+### **Financial Performance**
 
 •	Implement fuel optimization initiatives, as fuel represents the largest operational expense.
 
@@ -280,7 +280,7 @@ Monitor driver productivity, safety compliance, and service quality to improve o
 
 •	Develop cost-control measures to improve profit margins and financial sustainability.
 
-# **Driver Performance & Safety**
+### **Driver Performance & Safety**
 
 •	Introduce performance coaching programs for underperforming drivers.
 
