@@ -148,6 +148,8 @@ Provide leadership with a high-level view of business performance across revenue
 
 # **2. Financial Performance Dashboard**
 
+<img width="455" height="286" alt="image" src="https://github.com/user-attachments/assets/a38368e0-61c8-4266-80d1-0b4b930f485a" />
+
  
 Figure 2: Financial Performance Dashboard
 
@@ -202,6 +204,8 @@ Analyze profitability, customer value, and operational costs to identify opportu
 •	Assists management in maximizing profit rather than focusing solely on revenue growth.
 
 # **3. Driver Performance & Safety Dashboard**
+
+<img width="500" height="316" alt="image" src="https://github.com/user-attachments/assets/69d742a0-d8f3-4967-b6e4-8a6199e05caa" />
 
  
 Figure 3: Driver Performance & Safety Dashboard
